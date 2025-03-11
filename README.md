@@ -101,3 +101,5 @@ This file provides an **interactive menu** to let users select a shape and compu
 ---
 
 ## 📜 How to Run  
+1. javac Main.java
+2. java Main
